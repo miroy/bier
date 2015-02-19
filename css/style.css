@@ -1,0 +1,40 @@
+body {
+	font-family: arial;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+
+li {
+    display: inline;	
+	background-color: black;
+	color: white;
+	padding: 6px;
+}
+
+ul li a {
+	color: white;
+}
+
+div.menu {
+	margin-bottom: 1em;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+	min-width: 30px;
+	border: 1px solid black;
+	padding: 2px;
+}
+
+th {
+    text-align: left;
+	border: 1px solid black;
+	background-color: silver;
+}
